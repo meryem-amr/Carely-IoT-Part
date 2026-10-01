@@ -5,8 +5,6 @@ Carely helps new parents keep track of their baby's health and wellbeing, and
 supports the mother during the postpartum period. It combines wearable sensors,
 an IoT sound device, machine-learning models, and a mobile app in one connected system.
 
-> This repository contains the **IoT part** of Carely, with a detailed look at the
-> **biometric bracelet**.
 
 ---
 
